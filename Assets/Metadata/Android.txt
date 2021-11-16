@@ -1,0 +1,11 @@
+﻿[Android]
+Package Name : elhafidgames.ambratolm.game
+Build API : 22
+Minimum Android : 2.3/2.3.1/2.3.2
+Maximum Android : 5.1
+
+========================================
+Required Android SDK Packages:
+• Android 5.1.1 (API 22)
+• Android 2.3.3 (API 10) (For Admob extension, ...etc)
+ 

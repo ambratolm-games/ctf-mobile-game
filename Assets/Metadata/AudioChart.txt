@@ -1,0 +1,19 @@
+﻿[AudioChart]
+
+[Music]
+1. Title
+2. Level
+3. Victory
+4. Game Over
+
+[Sound]
+1. Cursor
+2. Confirm
+3. Cancel
+4. Buzzer
+5. Action
+6. Success
+7. Failure
+
+
+

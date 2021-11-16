@@ -1,0 +1,33 @@
+﻿[Details]
+
+[General]
+Title : ..........
+Release Date : 2018
+Version : 1.0
+Languages : English
+Platform : Android
+File Size : ~0MB
+Author : Ambratolm
+Company : Elhafid Games
+
+[Description]
+..........
+
+[How To Play]
+..........
+
+[Credits]
+Game : Ambratolm
+Graphics : Ambratolm
+Audio : Ambratolm
+
+[Special Thanks]
+Mother
+Father
+Brother
+Sister
+
+[Copyright]
+Game 2018 Version 1.0 
+Copyright © 2018 Elhafid Games
+Game by	Ambratolm

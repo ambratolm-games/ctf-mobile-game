@@ -1,0 +1,4 @@
+﻿[AdMob] (General)
+AdMob User : Ambratom
+Banner ID : ca-app-pub-0297947571106313/9700747930	
+Interstitial ID : ca-app-pub-0297947571106313/8832898135
